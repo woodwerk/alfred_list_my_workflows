@@ -2,7 +2,7 @@
 
 This workflow assembles a list of your Alfred workflows (names and descriptions).
 
-![](https://github.com/woodwerk/alfred_list_my_workflows/blob/master/list_my_workflows.png)
+![](https://github.com/woodwerk/alfred_list_my_workflows/blob/master/list_workflows.png)
 
 The Alfred workflows are buried in gibberish-named folders deep inside the user's library folder.
 
