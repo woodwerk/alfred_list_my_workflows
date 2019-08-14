@@ -2,7 +2,7 @@
 
 This workflow assembles a list of your Alfred workflows (names and descriptions).
 
-![](http://bit.ly/2Z6UCO2)
+![](https://github.com/woodwerk/alfred_list_my_workflows/blob/master/CSD%20GUI%20workflow.png)
 
 The Alfred workflows are buried in gibberish-named folders deep inside the user's library folder.
 
