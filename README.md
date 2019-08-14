@@ -2,11 +2,11 @@
 
 This workflow assembles a list of your Alfred workflows (names and descriptions).
 
-![](https://github.com/woodwerk/alfred_list_my_workflows/blob/master/CSD%20GUI%20workflow.png)
+![](https://github.com/woodwerk/alfred_list_my_workflows/blob/master/list_my_workflows.png)
 
 The Alfred workflows are buried in gibberish-named folders deep inside the user's library folder.
 
-![](http://bit.ly/2Z3CiWj)
+![](https://github.com/woodwerk/alfred_list_my_workflows/blob/master/CSD%20GUI%20workflow.png)
 
 The workflow is triggered by a hotkey that runs a Python script. The steps of the code are:
 
