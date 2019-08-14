@@ -1,4 +1,4 @@
-#List My Workflows (Python) - ALFRED Workflow
+# List My Workflows (Python) - ALFRED Workflow
 
 This workflow assembles a list of your Alfred workflows (names and descriptions).
 
